@@ -7,8 +7,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://results-summary-five.vercel.app/)
+- Solution URL:[Repository](https://github.com/deivid-esf/results-summary)
+- Live Site URL: [Site](https://results-summary-five.vercel.app/)
 
 ## My process
 
